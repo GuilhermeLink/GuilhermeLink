@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://github.com/GuilhermeLink">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLink&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLink&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLink&layout=compact&theme=tokyonight"/>
+                  
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,8 +22,9 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/guilhermebmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermemachado755@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  <a href = "mailto:guilhermemachado755@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="Guilherme Machado"><img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+
 </div>
 
 
