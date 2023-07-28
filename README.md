@@ -1,4 +1,4 @@
-### Olá GuilhermeLink aqui! Bem vindos a minha pagina! 👋🖥️  /  Hi there GuilhermeLink here! Welcome to my page! 👋🖥️
+### Hi there GuilhermeLink here! Welcome to my page! 👋🖥️
 
 <div align="center">
   <a href="https://github.com/GuilhermeLink">
